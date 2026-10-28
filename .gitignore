@@ -1,0 +1,13 @@
+# 3 Buku Referensi Utama / Textbooks (Ukuran besar > 15MB)
+Modern Operating Systems*.pdf
+Silberschatz*.pdf
+Unix and Linux System Administration Handbook*.pdf
+
+# File sementara sistem & editor
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*~
+.idea/
+.vscode/
